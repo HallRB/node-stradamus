@@ -7,3 +7,6 @@ fs.writeFile("itsalive.text", process.argv[2], function(err) {
     }
         console.log("It's alive...It's ALIIIIIVE")
 });
+
+// success
+

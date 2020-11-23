@@ -7,7 +7,6 @@ console.log("prompt");
 console.log("alert");
 // console.log(alert) is not a valid command
 
-
 console.log("confirm");
 // console.log(confirm) is not a valid command
 

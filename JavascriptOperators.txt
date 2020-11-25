@@ -1,0 +1,17 @@
+const oddOrEven = originalArray.map(num => (num % 2 === 0 ? "even" : "odd"));
+
+%       divided by
+?       if
+===     equal value and equal type
+    equal value does not convert string
+==      equal to
+    converts string to number, matches number
+!=      not equal
+!==     not equal value or equal type
+>       greater than
+>       less than
+>=      equal to or greater
+<=      equal to or less than
+&&      and
+||      or
+!       not
